@@ -1,0 +1,34 @@
+
+.host>h2{
+    color:#222222 !important;
+    font-size: 50px !important;
+    font-weight: 500 !important;
+    line-height:40px !important;
+    letter-spacing: 1p;
+    align-items: center;
+
+}
+
+    
+.host-img{
+    
+    height: 300px !important;
+    overflow: hidden !important;
+}
+.section{
+    line-height: 1.375em !important;
+    color: rgb(72, 72, 72) !important;
+    margin: 50px;
+    padding: 50px;
+    
+}
+section>p{
+    text-align: justify;
+}
+.bottom-img{
+    
+    height: 300px !important;
+    overflow: hidden !important;
+    padding: 20px;
+    justify-content: space-between;
+}

@@ -1,0 +1,25 @@
+.showdate{
+    position: absolute;
+    top: 35px;
+    
+    width: 100vw;
+}
+
+
+    
+  .showdate>button{
+      position: absolute;
+      left: 0;
+      top: 350px;
+      text-transform: inherit !important;
+      background-color: #ff7779;
+      color: white;
+      width: 200px;
+      margin-left: 42%;
+      margin-top: 10px;
+      }
+
+      .showdate>button:hover{
+          background-color: white;
+          color: #ff7779;
+      }
