@@ -6,19 +6,27 @@ import {Switch,Route } from 'react-router-dom';
 import Search from './Search';
 import Host from './Host';
 import Login from './Login';
-import Logout from './Logout';
+import Contact from './Contact';
+import Explore from './Explore';
+
 
 
 function App() {
+
+  
   
   return (
     <div className="App">
+
       
         
       <Header/>
       <Switch>
       <Route path='/search'>
         <Search/>
+        </Route>
+        <Route path='/explore'>
+        <Explore/>
         </Route>
         <Route path='/host'>
           <Host/>
@@ -27,8 +35,8 @@ function App() {
         <Route path='/login'>
           <Login/>
         </Route>
-        <Route path='/logout'>
-          <Logout/>
+        <Route path='/contact'>
+          <Contact/>
 
         </Route>
       <Route path='/'>

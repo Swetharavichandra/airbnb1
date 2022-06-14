@@ -1,0 +1,19 @@
+.search-info{
+    padding: 20px;
+
+}
+.search-info>h2{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.search-info>h1{
+    margin-bottom: 30px;
+}
+.search-info>button{
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 10px;
+    border-color: black;
+    color: black;
+}

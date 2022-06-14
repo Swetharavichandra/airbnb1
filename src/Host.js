@@ -28,7 +28,8 @@ Already a host? Check your Progress to see how you’re doing.</p>
 <h2>Get positive reviews</h2>
 <p>Guests like to know they can expect a consistent level of quality, no matter where they book. At the end of each stay, guests will review their experience with you, which is one of the ways we evaluate you as a host. Your overall rating is your average review score from all the guests you’ve hosted.<br/>
 As a host, you’ll have an opportunity to rate guests too–on their cleanliness, courteousness, and communication. Your feedback helps us ensure that guests are treating the homes they stay in as if they were their own. Guests who are consistently flagged by hosts may be subject to penalties.</p>
-  <hr/>
+<a href='https://arenajayanagar.com/arena-courses/index.html?utm_source=Google-Search&utm_medium=cpc&utm_matchtype=p&utm_device=c&utm_campaign=16806620524&utm_adgroup=136052266740&utm_keyword=arena%20animation&utm_creative=591809198141&utm_placement=&utm_adposition={adposition&gclid=CjwKCAjwv-GUBhAzEiwASUMm4tQ7qCXnYp_cg5qdtjH6Iz5mPBeSuZAiP-0UY8Acalpc6-I890PxLhoCEroQAvD_BwE'></a>  
+<hr/>
     <h2>Cleanliness</h2>
     <p>Guests will expect the clean and tidy space they see in your listing photos. Make sure you give yourself enough time to clean between guests, especially when you have back-to-back bookings.
 Guests will have the opportunity to rate the cleanliness of your space, and the average of your ratings will appear on your listing page. If you consistently receive low cleanliness ratings, you may be subject to penalties.</p>

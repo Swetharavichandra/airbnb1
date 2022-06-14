@@ -1,7 +1,6 @@
 .showdate{
     position: absolute;
     top: 35px;
-    
     width: 100vw;
 }
 
@@ -16,7 +15,7 @@
       color: white;
       width: 200px;
       margin-left: 42%;
-      margin-top: 10px;
+      margin-top: 10vh;
       }
 
       .showdate>button:hover{

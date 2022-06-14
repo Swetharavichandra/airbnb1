@@ -4,13 +4,13 @@ import { DateRangePicker } from 'react-date-range';
 import 'react-date-range/dist/styles.css'; // main style file
 import 'react-date-range/dist/theme/default.css'; // theme css file
 import Button from '@mui/material/Button';
-import { useSelector } from 'react-redux';
+
 import {useHistory} from 'react-router-dom'
 
 
 
 function Showdate() {
-  const isLoggedIn =useSelector((state) => state.isLoggedIn);
+  
   const history = useHistory();
   const [startDate,setStartDate]=useState(new Date());
   const [endDate,setEndDate]=useState(new Date());
@@ -29,13 +29,13 @@ function Showdate() {
 
   return (
     <div className='showdate'>
-     { isLoggedIn && <DateRangePicker
+     <DateRangePicker
         ranges={[selectionRange]}
         onChange={handleSelect}
-      />}
+      />
       
 
-      { isLoggedIn && <Button onClick={() => history.push('/search')}>Check Availability</Button>}
+       <Button onClick={() => history.push('/search')}>Check Availability</Button>
       
         
     </div>
